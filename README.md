@@ -89,7 +89,3 @@ These commands run `electron-vite build` followed by `electron-builder` for the 
 
 - [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-## References
-
-- During tailwind, electron and vitejs installation process
-  - https://www.youtube.com/watch?v=HfUDVJoBk7k
