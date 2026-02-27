@@ -63,7 +63,7 @@ src/
 - **Role-based access control** — Five roles: Claim Manager, Legal and Contract Specialist, Planning Responsible, Cost Control Responsible, Site Responsible
 - **Task management** — CRUD operations scoped per user
 - **Project management** — Nested project routes with create/edit/delete
-- **CSV analyzer** — Import and analyze CSV files via papaparse
+- **Disruption analysis** — Conducts various disruption analysis techniquesi
 - **Admin panel** — User management (roles, status, deletion) restricted to Claim Manager role
 
 ## Database
