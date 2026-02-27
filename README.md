@@ -1,6 +1,6 @@
 # Digital Disruption Claim Management Tool
 
-A desktop application for managing disruption claims with user authentication, role-based access control, task and project management, and CSV analysis. Built with Electron and React.
+An application for managing disruption claims with user authentication, role-based access control, task and project management, and disruption analysis. Built with Electron and React.
 
 ## Tech Stack
 
