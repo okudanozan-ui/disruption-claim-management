@@ -4,14 +4,13 @@ An application for managing disruption claims with user authentication, role-bas
 
 ## Tech Stack
 
-- **Electron 34** — Desktop shell with main/preload/renderer process model
+- **Electron 34** — Shell with main/preload/renderer process model
 - **React 18** — UI framework
 - **Ant Design** + **Tailwind CSS 4** — Component library and utility styling
 - **Sequelize 6** + **SQLite 3** — Local database (no external DB server needed)
 - **electron-vite** — Build tooling
 - **react-hook-form** — Form handling
 - **react-toastify** — Notifications
-- **papaparse** — CSV parsing
 
 ## Prerequisites
 
